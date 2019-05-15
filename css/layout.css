@@ -24,4 +24,66 @@
 
 /* Positioning Classes */
 
+/* div #featured {
+   column-count: 2;
+   column-gap: 5px;
+}
 
+.left {
+   float: left;
+   width: 64%;
+}
+
+.right {
+   float: right;
+   width: 31%;
+}
+
+div #deals {
+   column-count: 3;
+}
+
+.column_left {
+   float: left;
+   width: 64%;
+}
+
+.column_right {
+   float: right;
+   width: 31%;
+} */
+
+.tier1_left {
+   float: left;
+   width: 32.6%;
+   margin: 0 0 20px;
+}
+
+.tier1_mid { /* give center column of three this class last */
+   float: left;
+   width: 32.6%;
+   margin: 0 1% 20px 1%;
+}
+
+.tier1_right {
+   float: right;
+   width: 32.6%;
+   margin: 0 0 20px; 
+}
+
+.tier2_left {
+   float: left;
+   width: 66.4%;
+   margin: 0 1% 20px 0;
+}
+
+.tier2_right {
+   float: right;
+   width: 66.4%;
+   margin: 0 0 20px 1%;
+}
+
+/* .tier3 {
+   margin: 0 0 20px;
+   clear: both;
+} */
