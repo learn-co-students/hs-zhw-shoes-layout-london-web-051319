@@ -53,37 +53,37 @@ div #deals {
    width: 31%;
 } */
 
-.col1_left {
+.tier1_left {
    float: left;
    width: 32.6%;
    margin: 0 0 20px;
 }
 
-.col1_mid { /* give center column of three this class last */
+.tier1_mid { /* give center column of three this class last */
    float: left;
    width: 32.6%;
    margin: 0 1% 20px 1%;
 }
 
-.col1_right {
+.tier1_right {
    float: right;
    width: 32.6%;
    margin: 0 0 20px; 
 }
 
-.col2_left {
+.tier2_left {
    float: left;
    width: 66.4%;
    margin: 0 1% 20px 0;
 }
 
-.col2_right {
+.tier2_right {
    float: right;
    width: 66.4%;
    margin: 0 0 20px 1%;
 }
 
-.col3 {
+/* .tier3 {
    margin: 0 0 20px;
    clear: both;
-}
+} */
